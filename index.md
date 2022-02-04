@@ -10,4 +10,6 @@ The first prototype should not be striving to be final, it should just diminish 
 
 ## Software 
 
+### [Search for low power goes through Erratas](3.md)
+
 ## Project Management
