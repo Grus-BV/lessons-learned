@@ -1,4 +1,4 @@
 {
-    "foam.edit.linkReferenceDefinitions": "withExtensions",
+    "foam.edit.linkReferenceDefinitions": "withpoutExtensions",
     "git.autofetch": true
 }
