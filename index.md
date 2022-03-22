@@ -1,4 +1,4 @@
-# lessons-learned
+# Lessons Learned in Grus
 
 ## Hardware
 
