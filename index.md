@@ -9,7 +9,7 @@ When a component is defined in the library, the side that is is drawn on the eng
 The first prototype should not be striving to be final, it should just diminish design uncertainties as much as it can. Design it as a prototype.
 
 ### [Use naming schemes that are independent of roles](4.md)
-Wherever possible, try to use naming schemes that are independent of roles, controller or peripheral.
+Wherever possible, try to use naming schemes that are independent of roles, controller or peripheral. Use COPI or CIPO rather than TX or RX, or SDI or SDO.
 
 ## Software 
 
